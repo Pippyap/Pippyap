@@ -27,10 +27,6 @@ Here are some ideas to get you started:
  - PC building
 
 
-#### Strength
- - 
-#### Weakness
- - 
 
 상명대학교 제 2회 SM경진대회 게임 기획 부문 장려상 - Team 배씨와김씨들 [Link(private Rep.)](https://github.com/kimyonggyu2/bae-and-kims)
 
