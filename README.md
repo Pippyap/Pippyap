@@ -26,13 +26,10 @@ Here are some ideas to get you started:
  - Composition
  - PC building
 
-#### Strength
- - 주어진 일을 열심히 수행함.
 
-#### Weakness
- - 거절을 잘 못함. 그러나 내 능력 밖의 일은 확실히 거절해 팀의 능률을 해하지 않게 노력중.
 
 상명대학교 제 2회 SM경진대회 게임 기획 부문 장려상 - Team 배씨와김씨들 [Link(private Rep.)](https://github.com/kimyonggyu2/bae-and-kims)
+상명대학교 2021학년도 1학기 SW교육성과컨벤션 - 게임개발공모전 우수상 - Team 파리구이 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pippyap&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
